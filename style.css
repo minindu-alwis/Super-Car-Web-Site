@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.hh2{
+    font-size: 50px;
+    text-align: center;
+    color: antiquewhite;
+    font-family:'Lucida Sans';
+}
+
+.carr{
+    width: 70px;
+    border: none;
+}
+
+
+.hh1 {
+    
+    background-color: black;
+    padding: 50px;
+   
+}
+
+table {
+    width: 100%;
+    table-layout: fixed; /* Ensures equal spacing for all columns */
+    border-spacing: 10px; /* Adds space between images */
+    background-color: rgb(0, 0, 0);
+    padding: 30px;
+}
+
+td {
+    text-align: center; 
+   
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border: 5px solid #000000;
+}
+
+.hh4 {
+    text-align: center;
+    color: antiquewhite;
+    background-color: rgb(80, 80, 80);
+    padding: 5px;
+    color: white;
+}
+
+.button {
+    padding: 15px 30px;
+    font-size: 16px;
+    color: white;
+    background-color: #e1b12c;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin: 20px; /* Space between buttons */
+    display: inline-block; /* Ensures buttons stay on the same line */
+    
+}
